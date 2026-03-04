@@ -2,7 +2,7 @@
 🔭 I’m currently working on building small projects in python and web development to strengthen my coading skill<br><br>⚡ Fun fact i enjoy solving coding problems and turning logic into real application
 
 
-## 🌐 Socials:
+## 🌐 Socials:.
  
 
 # 💻 Tech Stack:
